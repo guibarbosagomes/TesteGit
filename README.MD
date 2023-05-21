@@ -9,3 +9,4 @@
 * Uso do comando git restore
 * Salvando no git hub
 * Comando git pull
+* Comando git fetch
